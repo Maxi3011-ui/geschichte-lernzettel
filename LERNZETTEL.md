@@ -1,92 +1,74 @@
-# 1 Geschichte erinnern
+# Geschichte erinnern – einfach formuliert
 
 ## 1.1 Populäre Formen der Mittelalterrezeption
 
 ### Mittelalterrezeption
 
-- Aufnahme und Verarbeitung von Vorstellungen, Begriffen und Inhalten des Mittelalters in der Gegenwart.
-- Die Inhalte werden an neue Zusammenhänge angepasst. Dabei entsteht häufig ein erfundenes Mittelalter aus historischen Fakten und Klischees.
-- Möglich sind wissenschaftliche Auseinandersetzung und populäre Darstellung für ein breites Publikum.
+- Mittelalterrezeption bedeutet: Vorstellungen und Inhalte des Mittelalters werden heute aufgenommen und neu dargestellt.
+- Dabei werden Fakten oft mit Klischees verbunden. Das Bild vom Mittelalter ist deshalb nicht immer historisch richtig.
+- Es gibt wissenschaftliche und populäre Darstellungen.
 
-### Unterschiedliche Formen der Mittelalterrezeption
+### Formen
 
-- Kinderspielzeug, Literatur, Filme, Computerspiele und Mittelalterszene.
-- Buchergänzung: Zur Mittelalterszene gehören Mittelaltermärkte, Feste und Reenactment – das Nachstellen historischer Ereignisse.
-- Buchergänzung: Populäre Darstellungen dienen häufig Unterhaltung und wirtschaftlichen Interessen; sie müssen nicht wissenschaftlich genau sein.
-
-*Heft: Formen der Mittelalterrezeption. Ergänzungen: Buch S. 12–17.*
+- Beispiele sind Spielzeug, Bücher, Filme, Computerspiele und Mittelaltermärkte.
+- Bei Reenactment werden historische Ereignisse nachgestellt.
+- Populäre Darstellungen sollen oft unterhalten und Geld verdienen. Deshalb sind sie nicht immer wissenschaftlich genau.
 
 ## Das Mittelalter in der politischen Argumentation
 
 ### 19. Jahrhundert
 
-- Aufkommender Nationalismus → Rückgriff auf das Mittelalter.
-- Interesse an romanischen und gotischen Kathedralen, Rathäusern und Burgen.
-- Mittelalterliche Dichtung wird als Volkskultur verstanden; Märchen, Sagen und nationale Epen werden gesammelt und interpretiert.
-- Buchergänzung: Die Beschäftigung mit mittelalterlichen Bauwerken führt auch zu deren Nachbau; Märchen sammeln beispielsweise die Brüder Grimm.
-
-*Heft: 19. Jahrhundert. Ergänzung: Buch S. 12.*
+- Durch den Nationalismus wuchs das Interesse am Mittelalter.
+- Kirchen, Rathäuser und Burgen galten als Zeugnisse der eigenen Geschichte.
+- Märchen, Sagen und nationale Epen wurden als Volkskultur gesammelt.
+- Mittelalterliche Bauwerke wurden teilweise nachgebaut. Märchen sammelten zum Beispiel die Brüder Grimm.
 
 ### Nationalsozialismus
 
-- Die Nationalsozialisten nutzen ausgewählte mittelalterliche Motive für ihre Ideologie und Propaganda.
-- Beispiel: Neu errichtete Ausbildungsstätten für den NS-Führungsnachwuchs heißen „Ordensburgen“ – eine Anspielung auf Ritterorden.
-- Buchergänzung: Verwendet werden bewusst solche Aspekte, die sich für die NS-Ideologie umdeuten lassen.
-
-*Heft: Nationalsozialismus. Ergänzung: Buch S. 12.*
+- Die Nationalsozialisten nutzten ausgewählte Mittelalterbilder für ihre Ideologie und Propaganda.
+- Ausbildungsstätten für den NS-Führungsnachwuchs wurden zum Beispiel Ordensburgen genannt. Das erinnerte an Ritterorden.
+- Verwendet wurden vor allem Aspekte, die zur NS-Ideologie passten.
 
 ### Gegenwart
 
-- Jubiläen und Jahrestage regen die Beschäftigung mit einem historischen Ereignis, einer Person oder einem Ort an.
-- Dabei entstehen wissenschaftliche Veröffentlichungen, Ausstellungen, kulturelle Veranstaltungen und kommerzielle Vermarktung.
+- Jubiläen und Jahrestage lenken die Aufmerksamkeit auf historische Ereignisse, Personen oder Orte.
+- Daraus entstehen Bücher, Ausstellungen, Veranstaltungen und Werbung.
 
 ## Geschichtskultur
 
 ### Die drei Bereiche
 
-- Geschichtswissenschaft: Erforschung der Vergangenheit.
-- Politischer Umgang: Geschichte wird politisch genutzt und öffentlich erinnert.
-- Ästhetisch-künstlerische Präsenz: Geschichte begegnet uns in Kunst und Alltag, beispielsweise in Filmen und Spielen.
-- Buchergänzung: Geschichtskultur bezeichnet insgesamt die Art und Weise, wie eine Gesellschaft mit ihrer Vergangenheit umgeht.
+- Geschichtswissenschaft untersucht die Vergangenheit.
+- Politischer Umgang bedeutet: Geschichte wird für politische Ziele genutzt und öffentlich erinnert.
+- Ästhetisch-künstlerische Präsenz bedeutet: Geschichte erscheint in Filmen, Spielen, Kunst und im Alltag.
+- Geschichtskultur beschreibt insgesamt, wie eine Gesellschaft mit ihrer Vergangenheit umgeht.
 
-*Heft: Geschichtskultur. Ergänzung: Buch S. 12–13.*
+### Mittelalter in Computerspielen
 
-### Aufgabe 1: Mittelalter in Computerspielen
+- Viele Spiele zeigen ein echt wirkendes Mittelalter mit Kämpfen, Abenteuern und einer erkundbaren Welt.
+- Beispiele sind *Assassin’s Creed* und *Crusader Kings III*.
+- Manche Spiele stellen historische Ereignisse nach. Andere nutzen das Mittelalter nur als Hintergrund.
 
-- Anreize: Realistisch wirkendes Mittelalter, Kämpfe und Abenteuer, historische Geschichte sowie – je nach Spiel – eine offene, erkundbare Spielwelt.
-- Beispiele aus dem Heft: Assassin’s Creed und Crusader Kings III.
-- Buchergänzung: Historische Ereignisse können nachgespielt werden; andere Spiele nutzen eine historische Epoche als Rahmen für eigene Handlungen.
+### Ziele der Hersteller
 
-*Heft: Aufgabe 1. Ergänzung: Buch S. 23.*
+- Die Hersteller wollen unterhalten und Geld verdienen.
+- Die Spiele sollen glaubwürdig wirken. Dafür arbeiten teilweise Fachleute mit.
+- Spiele können Geschichte vermitteln. Unterhaltung und Verkaufserfolg sind aber oft wichtiger.
+- Ein Spiel kann authentisch wirken, ohne vollständig historisch richtig zu sein. Geschichte wird ausgewählt und inszeniert.
 
-### Aufgabe 2: Ziele der Hersteller
+## 1.2 Umgang mit deutscher Kolonialgeschichte
 
-- Unterhaltung und Gewinn.
-- Historische Glaubwürdigkeit: Die Darstellung soll authentisch wirken; dafür werden teilweise Fachleute eingesetzt.
-- Vermittlung von Geschichte.
-- Buchergänzung: Unterhaltung und Verkaufserfolg können Vorrang vor Wissensvermittlung haben. Historische Genauigkeit ist außerdem ein Verkaufsargument.
-- Buchergänzung: Authentisch zu wirken bedeutet nicht automatisch, historisch richtig zu sein – Geschichte wird ausgewählt und inszeniert.
+### Spuren der Kolonialpolitik
 
-*Heft: Aufgabe 2. Ergänzungen: Buch S. 20–23.*
+- Nach 1945 wurden viele Kolonien unabhängig. Dieser Prozess heißt Entkolonialisierung.
+- Die DDR distanzierte sich deutlich von der deutschen Kolonialgeschichte und entfernte viele Spuren.
+- In der BRD blieben Denkmäler und Straßennamen meistens erhalten. Kolonialgeschichte spielte lange eine kleine Rolle in der öffentlichen Erinnerung.
+- Seit den 1990er-Jahren wird stärker darüber diskutiert, wie an die Kolonialgeschichte erinnert werden soll.
 
-## 1.2 Umgang mit deutscher Kolonialgeschichte: Erinnerung und Verantwortung
+### Straßennamen
 
-### Umgang mit Spuren der Kolonialpolitik
-
-- Nach 1945: Entkolonialisierung → staatliche Unabhängigkeit ehemaliger Kolonien.
-- DDR: Deutliche Distanzierung von der deutschen Kolonialgeschichte.
-- BRD: Koloniale Denkmäler und Straßennamen bleiben in der Regel erhalten.
-- Seit den 1990er-Jahren: Debatten über eine angemessene Erinnerung an Kolonialgeschichte.
-- Buchergänzung: In der DDR werden entsprechende Spuren beseitigt. In Westdeutschland spielen sie lange nur eine geringe Rolle im öffentlichen Gedächtnis.
-
-*Heft: Umgang mit Spuren der Kolonialpolitik. Ergänzung: Buch S. 26.*
-
-### B) Straßennamen
-
-- Straßennamen tragen zur Erinnerung an Kolonialgeschichte bei.
-- 1922: Der Deutsche Städtetag empfiehlt, Straßen und Plätze nach kolonialen Orten zu benennen; besonders in Norddeutschland umgesetzt.
-- 2020: Black Lives Matter verstärkt Debatten und Kritik – auch an der Ehrung von Bismarck und Wilhelm II. wegen ihrer Rolle bei Begründung beziehungsweise Ausbau des deutschen Kolonialreichs.
-- Buchergänzung: Seit den 1990er-Jahren untersuchen lokale Initiativen koloniale Spuren und stoßen auf problematische Straßennamen. Daraus entstehen Debatten über Bewertung und Umbenennung.
-- Buchbeispiel: Die Münchner Von-Trotha-Straße erinnert zunächst an einen Hauptverantwortlichen des Völkermords an den Herero. 2006 beschließt die Stadt die Umbenennung in Hererostraße und eine erklärende Gedenktafel.
-
-*Heft: B) Straßennamen. Ergänzungen: Buch S. 27 und 29.*
+- Straßennamen können an die deutsche Kolonialgeschichte erinnern.
+- 1922 empfahl der Deutsche Städtetag, Straßen und Plätze nach kolonialen Orten zu benennen. Besonders in Norddeutschland wurde das umgesetzt.
+- Seit den 1990er-Jahren untersuchen Initiativen solche Spuren und fordern Erklärungen oder Umbenennungen.
+- 2020 verstärkte Black Lives Matter die Debatte. Dabei wurde auch über Bismarck und Wilhelm II. gesprochen.
+- Die Münchner Von-Trotha-Straße wurde 2006 in Hererostraße umbenannt. Eine Gedenktafel erklärt den Zusammenhang mit dem Völkermord an den Herero.
